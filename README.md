@@ -29,3 +29,8 @@ Syscoin core
 Application Specific Integrated Circuits
 Graphics Processing Units
 
+btc contributions 
+1HHHVTXKgs2tvQb3hTsuSX9SdEtBDQwbcL
+
+ltc contributions
+LbmgSXVKm8xvn3uvUMAZmucD2DdB7MLBZ6
